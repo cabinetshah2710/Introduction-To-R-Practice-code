@@ -2,6 +2,8 @@
 This repository is concerned with all the notes related to basic of R Language.
 Repository follows this pattern:
 
+Note : ALL practice code folder includes all the basics codes 
+
 1. Introduction to R
 
      a. About R
